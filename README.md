@@ -1,8 +1,8 @@
 # Virus-associated organosulfur metabolism in human and environmental systems
 
-The published version of this manuscript can be found at [Cell Reports](https://www.sciencedirect.com/science/article/pii/S2211124721008949). 
+The published version of this manuscript can be found at [Cell Reports](https://www.sciencedirect.com/science/article/pii/S2211124721008949).  
 
-August 2021
+August 2021  
 Kristopher Kieft  
 Karthik Anantharaman  
 University of Wisconsin-Madison 
